@@ -61,6 +61,6 @@ plt.ylabel("loss")
 
 ## Output:
 ![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/output1.png?raw=true)
-![output}(https://github.com/Shaik-sameer-AIML/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/output2.png?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/output2.png?raw=true)
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
