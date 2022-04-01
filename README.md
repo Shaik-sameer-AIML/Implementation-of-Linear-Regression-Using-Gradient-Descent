@@ -20,7 +20,7 @@ Program to implement the linear regression using gradient descent.
 Developed by:shaik sameer 
 RegisterNumber:  212221240051
 */
-```
+
 
 import numpy as np
 import pandas as pd 
@@ -56,7 +56,7 @@ plt.title("study hours vs scores")
 plt.plot(loss)
 plt.xlable("iteration")
 plt.ylable("loss")
-
+```
 
 ## Output:
 ![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/output1.png?raw=true)
